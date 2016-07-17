@@ -1,0 +1,22 @@
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\bin\Debug\Temperature.exe
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\bin\Debug\Temperature.pdb
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\obj\Debug\Temperature.Form1.resources
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\obj\Debug\Temperature.exe
+C:\Users\akexandra\AppData\Local\Temporary Projects\Temperature\obj\Debug\Temperature.pdb
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\bin\Debug\Temperature.exe.config
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\obj\Debug\Temperature.exe
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\obj\Debug\Temperature.pdb
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\bin\Debug\Temperature.exe
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\bin\Debug\Temperature.pdb
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\obj\Debug\Temperature.csprojResolveAssemblyReference.cache
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\obj\Debug\Temperature.Form1.resources
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\obj\Debug\Temperature.Properties.Resources.resources
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\obj\Debug\Temperature.csproj.GenerateResource.Cache
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\bin\Debug\itextsharp.dll
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\bin\Debug\itextsharp.pdfa.dll
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\bin\Debug\itextsharp.xtra.dll
+C:\Users\akexandra\Documents\Visual Studio 2012\Projects\Temperature\Temperature\bin\Debug\itextsharp.xml
